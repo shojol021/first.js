@@ -1,5 +1,4 @@
-var num = 123;
-
-reminder = num % 5;
-
-console.log(reminder)
+function add(a, b){
+  return a + b;
+}
+console.log(add("adam" + "eve"))
