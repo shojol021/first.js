@@ -1,5 +1,4 @@
-var a = [2, 'all' 9, 0,12, 89]
+var a = 'Adnan Hossain Shojol';
 
-var d = a.indexOf(9);
-
-console.log(a);
+const b = a.toLocaleLowerCase();
+console.log(b);
