@@ -10,3 +10,10 @@ const s = 'Gai';
 // const aLo = a.toLowerCase();
 // const sLo = s.toLowerCase();
 console.log(a.toLowerCase().includes(s.toLowerCase()));
+
+var b = a.split(" ");
+var c = a.split("");
+console.log(b, c);
+var j = b.join('[joined]');
+console.log(j);
+// console.log(c);
